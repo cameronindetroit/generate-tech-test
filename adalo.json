@@ -1,0 +1,14 @@
+{
+  "displayName": "generate tech test",
+  "components": [
+    {
+      "name": "GenerateTechTest",
+      "manifest": "./src/components/GenerateTechTest/manifest.json"
+    }
+  ],
+  "author": "Cameron Barnes",
+  "description": "generates recurring tech test dates",
+  "demoAppURL": "https://app.adalo.com/apps/8a983095-c659-48cd-9150-129d5c46e665/screens",
+  "supportURL": "https://www.demoURL.com",
+  "logo": "./example-logo.png"
+}
